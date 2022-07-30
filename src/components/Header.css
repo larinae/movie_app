@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    cursor: pointer;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    background: #b92b27;
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);
+    background: linear-gradient(to right, #1565C0, #b92b27);
+    font-size: 3vw;
+    padding-bottom: 15px;
+    box-shadow: 0px 1px 5px black;
+    color: black;
+    z-index: 100;
+}
